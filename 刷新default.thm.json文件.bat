@@ -1,0 +1,2 @@
+node createThmRESjsonFile.js
+pause
