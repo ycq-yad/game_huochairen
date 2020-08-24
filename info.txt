@@ -1,0 +1,49 @@
+"gameId": "1047",
+"platform": "qq_wx_tt_oppo",
+"versionCode": "1.0.0",
+"token":"aefefec4384e5e1b1856f852ba655f05"
+
+md5加密的字符串  1047_qq_wx_tt_oppo_1.0.0
+md5加密的字符串结果  aefefec4384e5e1b1856f852ba655f05
+
+注册邮箱  注册密码  对应游戏名称
+duole3223@aliyun.com  DUOle123  火柴人之奇葩画（2）
+duole13686@aliyun.com  DUOle123  火柴人之脑洞大开（1）
+duole1382640@aliyun.com  DUOle123  火柴人之瞅你咋滴（0）
+
+
+//新的微信账号
+画线火柴人（火柴人奇葩画）
+dzxyx13@126.com	cygc3454 wx2947380262b38961	2b7eb6a3f2f385fc2e2e8625aa642b95
+神烦火柴人（火柴人之瞅你咋滴）
+dzxyx14@126.com	cygc3454 wx49025a537088f802	04f59744a58dfdc6fb1a487933d0f1f0
+火柴人学渣（火柴人之脑洞大开）
+dzxyx15@126.com	cygc3454 wxdf37173153c62bbd	f19695623d27f19745c99adbc8f2eebf
+
+https://hs.yz061.com
+
+https://package.32yx.com
+
+https://yxtest.32yx.com
+
+https://littlegame.32yx.com
+
+https://thirdqq.qlogo.cn
+
+https://wx.qlogo.cn
+
+
+<GameInfo gameID="1055"  MaxRank="50"  gameRedisName="1055"  gameName= "火柴人_qq_1"/>
+<GameInfo gameID="1056"  MaxRank="50"  gameRedisName="1056"  gameName= "火柴人_qq_2"/>
+<GameInfo gameID="1057"  MaxRank="50"  gameRedisName="1057"  gameName= "火柴人_qq_3"/>
+<GameInfo gameID="1058"  MaxRank="50"  gameRedisName="1058"  gameName= "火柴人_wecat_1"/>
+<GameInfo gameID="1059"  MaxRank="50"  gameRedisName="1059"  gameName= "火柴人_wecat_2"/>
+<GameInfo gameID="1060"  MaxRank="50"  gameRedisName="1060"  gameName= "火柴人_wecat_3"/>
+
+//新新的微信账号
+画线火柴人（火柴人奇葩画）
+dzxyx13@126.com	cygc3454 wx2947380262b38961	2b7eb6a3f2f385fc2e2e8625aa642b95
+神烦火柴人（火柴人之瞅你咋滴）		
+dzxyx14@126.com	cygc3454 wx49025a537088f802	04f59744a58dfdc6fb1a487933d0f1f0
+火柴人学渣（火柴人之脑洞大开）
+dzxyx15@126.com	cygc3454 wxdf37173153c62bbd	f19695623d27f19745c99adbc8f2eebf

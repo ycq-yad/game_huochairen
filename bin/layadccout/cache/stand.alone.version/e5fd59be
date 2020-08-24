@@ -1,0 +1,7 @@
+{
+    "info": "本配置为了简便调试-不建议删除",
+    "debug": false,
+    "stat": false,
+    "physicsDebug": false,
+    "alertGlobalError": false
+}

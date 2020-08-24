@@ -1,0 +1,4 @@
+{
+  "code": "import * as tslib_1 from \"tslib\";\r\nvar CommonScaleComplenet = (function (_super) {\r\n    tslib_1.__extends(CommonScaleComplenet, _super);\r\n    function CommonScaleComplenet() {\r\n        return _super.call(this) || this;\r\n    }\r\n    return CommonScaleComplenet;\r\n}(CustomScaleComponent));\r\nexport default CommonScaleComplenet;\r\n",
+  "references": []
+}

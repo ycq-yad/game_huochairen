@@ -1,0 +1,11 @@
+[
+{"id":1,"color":"#000000","resource":"color_color_24","weight":0},
+{"id":2,"color":"#00CC66","resource":"color_color_25","weight":10},
+{"id":3,"color":"#FFCC99","resource":"color_color_26","weight":10},
+{"id":4,"color":"#00CCCC","resource":"color_color_27","weight":20},
+{"id":5,"color":"#FF9966","resource":"color_color_28","weight":15},
+{"id":6,"color":"#FFCC33","resource":"color_color_29","weight":15},
+{"id":7,"color":"color_color_1","resource":"color_color_1","weight":10},
+{"id":8,"color":"color_color_2","resource":"color_color_2","weight":5},
+{"id":9,"color":"color_color_3","resource":"color_color_3","weight":5}
+]

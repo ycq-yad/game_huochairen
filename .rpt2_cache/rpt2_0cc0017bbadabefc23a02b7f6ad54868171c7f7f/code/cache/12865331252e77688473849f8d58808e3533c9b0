@@ -1,0 +1,4 @@
+{
+  "code": "var GameConst = (function () {\r\n    function GameConst() {\r\n    }\r\n    GameConst.BASE_INFO = \"BASE_INFO\";\r\n    GameConst.SIGN_INFO = \"SIGN_INFO\";\r\n    GameConst.INVITE_INFO = \"INVITE_INFO\";\r\n    GameConst.FREE_INFO = \"FREE_INFO\";\r\n    GameConst.LEVEL_INFO = \"LEVEL_INFO\";\r\n    GameConst.COLOR_INFO = \"COLOR_INFO\";\r\n    GameConst.SKIN_INFO = \"SKIN_INFO\";\r\n    GameConst.BRUSH_INFO = \"BRUSH_INFO\";\r\n    return GameConst;\r\n}());\r\nexport default GameConst;\r\n",
+  "references": []
+}

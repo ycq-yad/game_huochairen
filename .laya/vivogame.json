@@ -1,0 +1,89 @@
+{
+    "copyFilesFilter": [
+        "../bin/**/*.*"
+    ],
+    "openDataZone": false,
+    "compressJson": false,
+    "compressJsonFilter": [
+        "$basePath/**/*.{json,atlas}"
+    ],
+    "compressJsonNoteList": [
+        ""
+    ],
+    "compressImage": false,
+    "compressImageFilter": [
+        "$basePath/**/*.{png,jpg}"
+    ],
+    "compressImageNoteList": [
+        ""
+    ],
+    "compressJs": false,
+    "compressJsFilter": [
+        "$basePath/**/*.js"
+    ],
+    "compressJsNoteList": [
+        ""
+    ],
+    "version": false,
+    "versionFilter": [
+        "$basePath/**/*.*",
+        "!$basePath/*.html",
+        "!$basePath/{version.json,game.js,game.json,project.config.json,weapp-adapter.js,project.swan.json,swan-game-adapter.js,main.js,gameConfig.json}",
+        "!$basePath/layaforqq/**/*.*"
+    ],
+    "versionNoteList": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "exclude": false,
+    "excludeFilter": [
+        "!$basePath/res/**/*.*"
+    ],
+    "vexcludeNoteList": [
+        ""
+    ],
+    "packfile": false,
+    "packfileFilter": [
+        ""
+    ],
+    "packfileFullValue": [
+        "$basePath/**/*.*"
+    ],
+    "packfileTargetValue": "",
+    "packfileNoteList": [
+        ""
+    ],
+    "clearReleaseDir": true,
+    "compile": false,
+    "forceCompile": false,
+    "onlyIndexJS": true,
+    "projectType": "ts",
+    "pubTime": 1576222888375,
+    "vivoInfo": {
+        "name": "baseP",
+        "projName": "quickgame",
+        "package": "com.duole.jxppc.vivominigame",
+        "icon": "E:\\ecy\\H5\\LAYA\\project\\laya_baseP_ts\\logo.png",
+        "versionName": "1.0",
+        "versionCode": 2,
+        "minPlatformVersion": 1050,
+        "orientation": "portrait",
+        "logLevel": "off",
+        "oppoDebug": false,
+        "useReleaseSign": false,
+        "subpack": false
+    },
+    "vivoSign": {
+        "generateSign": false,
+        "countryName": "",
+        "provinceName": "",
+        "localityName": "",
+        "orgName": "",
+        "orgUnitName": "",
+        "commonName": "",
+        "emailAddr": ""
+    },
+    "vivoSubpack": []
+}

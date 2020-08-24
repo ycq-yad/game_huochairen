@@ -1,0 +1,6 @@
+{
+  "code": "import CommonScaleComplenet from \"./script/common/CommonScaleComplenet\";\r\nvar GameConfig = (function () {\r\n    function GameConfig() {\r\n    }\r\n    GameConfig.init = function () {\r\n        var reg = Laya.ClassUtils.regClass;\r\n        reg(\"script/common/CommonScaleComplenet.ts\", CommonScaleComplenet);\r\n    };\r\n    GameConfig.width = 1080;\r\n    GameConfig.height = 1920;\r\n    GameConfig.scaleMode = \"fixedwidth\";\r\n    GameConfig.screenMode = \"none\";\r\n    GameConfig.alignV = \"top\";\r\n    GameConfig.alignH = \"left\";\r\n    GameConfig.startScene = \"skins/channel/duyou/DYMoreGameRandom.scene\";\r\n    GameConfig.sceneRoot = \"\";\r\n    GameConfig.debug = false;\r\n    GameConfig.stat = false;\r\n    GameConfig.physicsDebug = false;\r\n    GameConfig.exportSceneToJson = true;\r\n    return GameConfig;\r\n}());\r\nexport default GameConfig;\r\nGameConfig.init();\r\n",
+  "references": [
+    "E:/laya/project/laya_firePeople2_git_ts/src/script/common/CommonScaleComplenet.ts"
+  ]
+}

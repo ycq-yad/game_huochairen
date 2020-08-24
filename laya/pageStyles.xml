@@ -1,0 +1,6 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="skins/HorizontalSkinView.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="levels/type0/level/LevelScene1.scene" props="" ifExport="默认" aName=""/>
+   <item name="levels/type0/complent/FanScene.scene" props="" ifExport="默认" aName=""/>
+</page>

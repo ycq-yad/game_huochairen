@@ -1,0 +1,8 @@
+[
+{"id":1,"group":"A","price":0,"icon":""},
+{"id":2,"group":"B","price":2000,"icon":"Icon_FreeBall_BALL"},
+{"id":3,"group":"C","price":2000,"icon":"Icon_FreeBall_Fruit"},
+{"id":4,"group":"D","price":2000,"icon":"Icon_FreeBall_Cookie"},
+{"id":5,"group":"E","price":2000,"icon":"Icon_FreeBall_candy"},
+{"id":6,"group":"F","price":2000,"icon":"Icon_FreeBall_Halloween"}
+]

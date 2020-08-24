@@ -1,0 +1,17 @@
+{
+    "showCd": false,
+    "serverConf": "wts",
+    "version": 1001,
+    "bannerId": [],
+    "videoId": [],
+    "longVideoId": [],
+    "isOpen": true,
+    "gameId": "1047",
+    "platform": "qq_wx_tt_oppo",
+    "versionCode": "1.0.0",
+    "token": "aefefec4384e5e1b1856f852ba655f05",
+    "selectDoule": true,
+    "strogeVersion": "1001",
+    "videoOpen": false,
+    "model": 2
+}

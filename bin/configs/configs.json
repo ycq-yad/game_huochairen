@@ -1,0 +1,26 @@
+{
+    "shareInfo": [
+        {
+            "title": "魔性火柴人在线涂鸦！",
+            "imageUrl": "https://package.32yx.com/ecy_game_small/laya/firePeople2/qq_res/share1.jpg",
+            "query": ""
+        }
+    ],
+    "gameConf": {
+        "defaultPower": 5,
+        "rePowerCD": 300,
+        "rePowerLimit": 5,
+        "maxPower": 99,
+        "videoBuyPower": 2,
+        "videoBuyGold": 200,
+        "powerBag": 1,
+        "passGold0": 50,
+        "passGold1": 50,
+        "passGold2": 50,
+        "shareRecordAward": 100,
+        "skinTryCount": 1,
+        "unlockCost2": 500,
+        "starTipSec": 8,
+        "powerCost": 1
+    }
+}

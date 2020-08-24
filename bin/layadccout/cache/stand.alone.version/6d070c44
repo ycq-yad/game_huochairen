@@ -1,0 +1,9 @@
+[
+{"id":1,"name":"完成签到","type":1,"param":1,"reward":1,"icon":""},
+{"id":2,"name":"通关5关","type":2,"param":5,"reward":1,"icon":"free_icon_1"},
+{"id":3,"name":"通关10关","type":2,"param":10,"reward":1,"icon":"free_icon_2"},
+{"id":4,"name":"通关15关","type":2,"param":15,"reward":1,"icon":"free_icon_3"},
+{"id":5,"name":"通关20关","type":2,"param":20,"reward":1,"icon":"free_icon_4"},
+{"id":6,"name":"通关25关","type":2,"param":25,"reward":1,"icon":"free_icon_5"},
+{"id":7,"name":"通关30关","type":2,"param":30,"reward":1,"icon":"free_icon_1"}
+]

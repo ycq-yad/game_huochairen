@@ -1,0 +1,4 @@
+{
+  "code": "var CommonTool = (function () {\r\n    function CommonTool() {\r\n    }\r\n    CommonTool.errorCodeTable = {\r\n        1: \"解析数据异常\",\r\n        2: \"服务器内部错误\",\r\n        3: \"数据库处理超时\",\r\n        4: \"数据插入失败\",\r\n        5: \"查询操作错误\",\r\n        6: \"数据库没有该数据\",\r\n        7: \"数据库数据不存在\",\r\n        8: \"操作频繁\",\r\n        9: \"名次传递错误\",\r\n        10: \"没有rankid\",\r\n        11: \"没有游戏id\",\r\n        12: \"没有Session_Id\",\r\n        13: \"没有Session_Key\",\r\n        14: \"Session_Id超时\",\r\n        15: \"Session_Id加密错误\",\r\n        16: \"Session_Id解密失败\",\r\n        17: \"Session_Id不匹配\",\r\n        18: \"token验证失败\",\r\n        19: \"没有保存Id\",\r\n        20: \"参数错误\",\r\n        21: \"没有分数\",\r\n        22: \"数据更新失败\",\r\n        23: \"数据删除失败\",\r\n        24: \"无效的游戏Id\",\r\n        25: \"无存储信息数据\"\r\n    };\r\n    return CommonTool;\r\n}());\r\nexport default CommonTool;\r\n",
+  "references": []
+}

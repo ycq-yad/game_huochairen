@@ -1,0 +1,147 @@
+D .
+D resource
+D resource/assets
+D resource/assets/base
+P 2D32B6B3 game_panel_db.png
+P 21DA7161 tips_mengban.png
+D resource/assets/imgs
+D resource/assets/loading
+D resource/assets/imgs/game
+D resource/assets/imgs/home
+D resource/assets/imgs/levels
+D resource/assets/imgs/public
+P 6676EFAB buy_button_1.png
+P 7F61A8B0 buy_button_2.png
+R D8F5E808 chapter_baseboard_1.png
+P BC0964D2 chapter_button_1.png
+P DBE399D9 free_button_1.png
+P AEA63399 free_button_2.png
+P C4FCE76C game_icon_4.png
+P 5BE055BB level_button_1.png
+P 28D5137F level_button_2.png
+P B60A4F15 mianinterface_add_1.png
+P A91680FC mianinterface_baseboard_1.png
+P 9D6DA5CF mianinterface_button_1.png
+P FECD13B8 mianinterface_button_2.png
+P 9CDA361F mianinterface_button_3.png
+P 0BA32548 mianinterface_icon_1.png
+P 73CEA77C mianinterface_icon_2.png
+P 69FEA570 settlement_icon_5.png
+R 5D573B7E sign_baseboard_1.png
+R D1DA1DB2 sign_baseboard_2.png
+P 07B7292D sign_baseboard_7.png
+P 9D36EF34 sign_icon_3.png
+D resource/assets/imgs/game/type2
+P 2104F044 checkpoint_baseboard_2.png
+P 625A17EF checkpoint_icon_1.png
+P B857D92C game_baseboard_1.png
+R 37E26308 game_baseboard_2.png
+P 8CBC951B game_icon_1.png
+P F5E76922 game_icon_2.png
+P 19C56BF3 game_icon_3.png
+P 8BFF2DF6 game_next_icon.png
+P 4DA94329 shop_icon_1.png
+D resource/assets/imgs/home/main
+S 8260BA46 buy_baseboard_1.png
+S 6467F101 buy_baseboard_2.png
+S 96A105B8 mianinterface_background.jpg
+P 41D07329 mianinterface_icon_3.png
+R 7FB669A6 mianinterface_logo_1.png
+R A75B47B3 mianinterface_logo_1_1.png
+D resource/assets/imgs/home/power
+R 074A49F0 free_baseboard_1.png
+P A068AF87 free_baseboard_2.png
+P 9BF23CDB free_icon_1.png
+P 5DE207D1 free_icon_2.png
+P A1D07DB0 free_icon_3.png
+P 4000E13A free_icon_4.png
+P D75FC283 free_icon_5.png
+D resource/assets/imgs/home/reward
+P E685C71F reward_baseboard_2.png
+P 521DAA64 reward_baseboard_3.png
+P E1A9AF23 reward_icon_1.png
+P AEFFB33D reward_icon_2.png
+P C7B1B687 reward_icon_3.png
+R 0B8C11A4 reward_light_1.png
+P 3269164B reward_light_2.png
+D resource/assets/imgs/home/sign
+P 472E41E7 sign_baseboard_3.png
+P 0A493EF9 sign_baseboard_4.png
+R 87BBE21D sign_baseboard_5.png
+R 3899A8CB sign_baseboard_6.png
+P 0BCF63D4 sign_decorate_1.png
+P 17A66190 sign_decorate_2.png
+P F95833EF sign_decorate_3.png
+P 3DDC293D sign_decorate_4.png
+P 740BF9D3 sign_icon_2.png
+D resource/assets/imgs/levels/type2
+D resource/assets/imgs/game/type2/brush
+R D63615F1 brush_baseboard_1.png
+P CD32F2CD brush_baseboard_2.png
+P 1FE003CF brush_baseboard_3.png
+P 4A1EFFB7 brush_baseboard_4.png
+S E14EC69F brush_baseboard_5.png
+P ED7FC4EF brush_button_1.png
+P 37A6A21E brush_icon_1.png
+P 0DF91DCE brush_round_1.png
+P 6FFF0C0E brush_round_2.png
+D resource/assets/imgs/game/type2/brushs
+P 0A7AFBEF brush_brush_1.png
+P 9B4F94CC brush_brush_10.png
+P A0A4ADBB brush_brush_11.png
+P 994FDF84 brush_brush_12.png
+P D19B1E6D brush_brush_13.png
+P 63210289 brush_brush_14.png
+P 570FD75A brush_brush_15.png
+P D2BEA7ED brush_brush_2.png
+P 2AF3680C brush_brush_3.png
+P 8F71EBCD brush_brush_4.png
+P 33F2B416 brush_brush_5.png
+P 9B9B90EC brush_brush_6.png
+P F9D93032 brush_brush_7.png
+P CA430CA7 brush_brush_8.png
+P E8AB719D brush_brush_9.png
+D resource/assets/imgs/game/type2/chapter2
+P AD727A84 chapter_icon_1.png
+P 3390F1F1 checkpoint_baseboard_3.png
+P A84BBF31 checkpoint_baseboard_4.png
+P 26A19692 checkpoint_db1.png
+P 2298619E checkpoint_db2.png
+P 3E8CFF4E checkpoint_icon_2.png
+D resource/assets/imgs/game/type2/settlement2
+P 94614FC5 settlement_icon_1.png
+P 90B764D1 settlement_icon_2.png
+P EB4D5324 settlement_icon_4.png
+P 73F682A5 settlement_icon_6.png
+P E62DC073 settlement_loight_1.png
+D resource/assets/imgs/game/type2/brush/brush_brush
+P 4884813D brush_brush_10_1.png
+P 7F0B79FE brush_brush_10_2.png
+P D0FE2CD8 brush_brush_11_1.png
+P C1AF818F brush_brush_11_2.png
+P BD122166 brush_brush_12_1.png
+P E265BE69 brush_brush_12_2.png
+P 1B557E1F brush_brush_13_1.png
+P 23726CA8 brush_brush_13_2.png
+P 49C2D743 brush_brush_14_1.png
+P 06598CEB brush_brush_14_2.png
+P 43E2F67B brush_brush_15_1.png
+P 4CF98D40 brush_brush_15_2.png
+P 33780758 brush_brush_1_1.png
+P E6B3B800 brush_brush_1_2.png
+P DA7D5812 brush_brush_2_1.png
+P 49A7A746 brush_brush_2_2.png
+P 077C3637 brush_brush_3_1.png
+P 1DB0BC59 brush_brush_3_2.png
+P D77E064F brush_brush_4_1.png
+P B19664C7 brush_brush_4_2.png
+P A9C1EB86 brush_brush_5_1.png
+P 08E0BAA8 brush_brush_5_2.png
+P 9D2A29AC brush_brush_6_1.png
+P 8E02D553 brush_brush_6_2.png
+P 21BEF9AA brush_brush_7_1.png
+P 864F7DD3 brush_brush_7_2.png
+P 048959DC brush_brush_8_1.png
+P 17261AB0 brush_brush_8_2.png
+P BE50D1AF brush_brush_9_1.png
+P 5E5D0A24 brush_brush_9_2.png

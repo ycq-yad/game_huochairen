@@ -1,0 +1,9 @@
+[
+{"id":1,"name":"第1天","reward":[{"type":1001,"num":2}]},
+{"id":2,"name":"第2天","reward":[{"type":1002,"num":100}]},
+{"id":3,"name":"第3天","reward":[{"type":1001,"num":2}]},
+{"id":4,"name":"第4天","reward":[{"type":1001,"num":3}]},
+{"id":5,"name":"第5天","reward":[{"type":1002,"num":200}]},
+{"id":6,"name":"第6天","reward":[{"type":1001,"num":3}]},
+{"id":7,"name":"第7天","reward":[{"type":1001,"num":5},{"type":1002,"num":500}]}
+]

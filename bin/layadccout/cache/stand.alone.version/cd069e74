@@ -1,0 +1,5 @@
+[
+{"ID":101,"name":"经典模式","sort":1,"openLN":30,"maxnum":30,"resource":"chose_baseboard_1"},
+{"ID":102,"name":"摔杯达人","sort":2,"openLN":30,"maxnum":30,"resource":"chose_baseboard_2"},
+{"ID":103,"name":"智力画线","sort":3,"openLN":35,"maxnum":35,"resource":"chose_baseboard_3"}
+]
